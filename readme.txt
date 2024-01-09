@@ -1,5 +1,3 @@
-Name: Tulasi Nakka
-Id: 1001928971
 Programming Language used: Python 3 and version 3.9.13
 
 How the code is structured?
